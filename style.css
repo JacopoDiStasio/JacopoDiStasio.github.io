@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: #ccffcc;
   }
   
   h1 {
@@ -8,6 +8,7 @@ body {
   }
   
   p {
-    font-family: verdana;
+    font-family:  ui-monospacGeorgia, serif;
     font-size: 20px;
+    text-align: center;
   }
